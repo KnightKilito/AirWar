@@ -14,8 +14,11 @@ Eclipse 2020-06版
 是用Java swing编程实现的
 
 项目下载地址：https://github.com/KnightKilito/AirWar
+
 [点击前往](https://github.com/KnightKilito/AirWar)
+
 ![能点击右上角的star的话我会感激不尽的！](https://img-blog.csdnimg.cn/20210128005726238.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70#pic_center)
+
 对于不会用GitHub的同学，点击绿色Code按钮，再点击Download ZIP按钮即可下载，之后解压出来就好了
 
 **觉得不错的话可以点一下右上角的小星星哦~ (๑•̀ㅂ•́)و✧**
