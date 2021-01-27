@@ -1,6 +1,10 @@
 # AirWar
 飞机大战-Java版
 
+系统详情介绍在CSDN的链接在此：https://blog.csdn.net/qq_38677092/article/details/113287685
+
+如果图片加载不出来就去CSDN看吧~
+
 ## **飞机大战-Java版**
 项目包含文件：
 1、项目文件（包含src中的主要代码以及image中用到的图片素材）
@@ -27,26 +31,35 @@ Eclipse 2020-06版
 **一、项目总体概述**
 
 ![项目基础功能介绍](https://img-blog.csdnimg.cn/20210128010451696.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70#pic_center)
+
 **二、项目新增功能模块的简单介绍**
 
 ![模块介绍-JudgeScore()](https://img-blog.csdnimg.cn/20210128010602684.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70)
+
 ![模块介绍-JudgeFire()](https://img-blog.csdnimg.cn/20210128010602651.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70)
+
 ![新增类的介绍](https://img-blog.csdnimg.cn/20210128010602443.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70)
 
 **三、项目关键技术介绍**
 
 ![关键技术-对象的移动](https://img-blog.csdnimg.cn/20210128010840346.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70)
+
 ![关键技术-移除飞出窗体的对象](https://img-blog.csdnimg.cn/20210128010840281.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70)
+
 ![关键技术-对象生成](https://img-blog.csdnimg.cn/20210128010840290.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70)
+
 ![关键技术-鼠标监听](https://img-blog.csdnimg.cn/20210128010840236.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70)
 
 **四、项目中出现的问题以及解决方法**
 
 ![数组溢出问题](https://img-blog.csdnimg.cn/20210128011213172.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70)
+
 ![其他问题](https://img-blog.csdnimg.cn/20210128011212745.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70)
+
 **五、项目需要的改进之处**
 
 ![项目需要的改进之处](https://img-blog.csdnimg.cn/20210128011327835.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70#pic_center)
+
 **六、实训心得**
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2021012801162687.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM4Njc3MDky,size_16,color_FFFFFF,t_70#pic_center)
