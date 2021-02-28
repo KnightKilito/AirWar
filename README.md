@@ -69,7 +69,12 @@ Eclipse 2020-06版
 
 **七、项目展示**
 
-视频链接日后补上~也可以直接去GitHub下载项目直接看我录好的项目运行视频就知道运行效果如何！ φ(゜▽゜*)♪
+[video(video-KLpmz06r-1612423995028)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=373986555)(image-https://ss.csdn.net/p?http://i2.hdslb.com/bfs/archive/62478c0b140c842eebd75ea63efdb27b2d59d874.jpg)(title-早期飞机大战Java答辩展示视频)]
+
+https://www.bilibili.com/video/BV1Jo4y1d7qG/
+[点击前往b站观看本人屑作φ(゜▽゜*)♪](https://www.bilibili.com/video/BV1Jo4y1d7qG/)
+
+直接看我录好的项目运行视频就知道运行效果如何！ φ(゜▽゜*)♪
 ~ ~~我太懒了~~ ~
 
 喜欢的话可以一键三连哦~至少小小的一个赞我也会很开心 (*/ω＼*)
